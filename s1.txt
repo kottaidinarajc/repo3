@@ -1,2 +1,5 @@
 hello welcome to github
-merge conflict.
+
+merge conflict and resloved
+
+
